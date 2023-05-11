@@ -17,13 +17,16 @@ int main(){
         }
         for (int j = 1; j <= n; ++j) { // 从1开始
             cin >> arr[j];
+            //cout << arr[j] << " ";
         }
-        arr[n+1] = 100;
+        //cout << endl;
+        arr[n+1] = 101;
         int max = -1;
         for (int j = 1; j <= n-m+1 ; ++j) {
-            int apple = arr[j+m] - arr[j-1] + 1;
+            int apple = arr[j+m] - arr[j-1] - 1;
             if (apple > max) max = apple;
         }
+        if(max == -1) continue;
         cout << max << endl;
     }
 }
