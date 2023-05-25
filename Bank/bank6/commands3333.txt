@@ -1,0 +1,16 @@
+a s S3755217 0.015
+a s 02342342 0.015
+a c C5392394 10000 0.0005 50
+c 5
+d 0 5000 salary
+c 15
+w 2 2000 buy a cell
+c 25
+d 1 10000 sell stock 0323
+n
+d 2 2016 repay the credit
+c 5
+d 0 5500 salary
+n
+c 15
+w 2 1500 buy a television
