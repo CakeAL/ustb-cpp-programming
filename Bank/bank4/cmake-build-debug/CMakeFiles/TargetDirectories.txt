@@ -1,0 +1,3 @@
+/Users/cakeal/Desktop/程设2/bank4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/cakeal/Desktop/程设2/bank4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cakeal/Desktop/程设2/bank4/cmake-build-debug/CMakeFiles/bank4.dir

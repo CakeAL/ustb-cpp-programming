@@ -1,0 +1,3 @@
+g++ -c step_1.cpp
+g++ -c account.cpp
+g++ -o output step_1.o account.o
